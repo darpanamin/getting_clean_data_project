@@ -11,7 +11,7 @@ subject_id - this is the ID to identify the subject/participant
 activity  - this is the activity perfomed.  Possible activities are: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,LAYING  
 
 ## Measurement Mean Columns (3-68)
- These will be means of the original measures based on Subject and Activity
+ These will be means of the original measures based on Subject and Activity.  The X,Y, and Z at the end of the column names indicate the axis of direction on a 3-axis scale.  
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
