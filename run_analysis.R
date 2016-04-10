@@ -39,4 +39,4 @@ data_mean_std<-select(total_data,append(c(1:2),mean_std_col))
 ## this completes requirement #5
 aggDT_tidy <-aggregate(data_mean_std[, mean_std_col_names,with = FALSE],by=list(subject = data_mean_std$subject,activity = data_mean_std$activity_name),mean)
 ## exporting data
-write.table(aggDT_tidy, './tidyData.txt',row.names=TRUE,sep='\t')
+write.table(aggDT_tidy, './tidyData.txt',row.names=FALSE,sep='\t',quote=FALSE)
