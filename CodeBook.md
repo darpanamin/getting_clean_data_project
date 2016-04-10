@@ -11,18 +11,18 @@ subject_id - this is the ID to identify the subject/participant
 activity  - this is the activity perfomed
 ## Measurement Mean Columns (3-68)
  These will be means of the original measures based on Subject and Activity
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tBodyAcc-std()-X
-tBodyAcc-std()-Y
-tBodyAcc-std()-Z
-tGravityAcc-mean()-X
-tGravityAcc-mean()-Y
-tGravityAcc-mean()-Z
-tGravityAcc-std()-X
-tGravityAcc-std()-Y
-tGravityAcc-std()-Z
+tBodyAcc-mean()-X  
+tBodyAcc-mean()-Y  
+tBodyAcc-mean()-Z  
+tBodyAcc-std()-X  
+tBodyAcc-std()-Y  
+tBodyAcc-std()-Z  
+tGravityAcc-mean()-X  
+tGravityAcc-mean()-Y  
+tGravityAcc-mean()-Z  
+tGravityAcc-std()-X  
+tGravityAcc-std()-Y  
+tGravityAcc-std()-Z  
 tBodyAccJerk-mean()-X
 tBodyAccJerk-mean()-Y
 tBodyAccJerk-mean()-Z
