@@ -7,8 +7,8 @@ output: html_document
 This file will list the columns available in the Tidy Data output.
 
 ## Key Columns (1-2)
-subject_id - this is the ID to identify the subject/participant
-activity  - this is the activity perfomed
+subject_id - this is the ID to identify the subject/participant  
+activity  - this is the activity perfomed  
 ## Measurement Mean Columns (3-68)
  These will be means of the original measures based on Subject and Activity
 tBodyAcc-mean()-X  
