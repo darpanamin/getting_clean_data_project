@@ -8,7 +8,8 @@ This file will list the columns available in the Tidy Data output.
 
 ## Key Columns (1-2)
 subject_id - this is the ID to identify the subject/participant  
-activity  - this is the activity perfomed  
+activity  - this is the activity perfomed.  Possible activities are: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,LAYING  
+
 ## Measurement Mean Columns (3-68)
  These will be means of the original measures based on Subject and Activity
 tBodyAcc-mean()-X  
